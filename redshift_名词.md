@@ -1,0 +1,129 @@
+# Redshift名词
+
+- Material
+  - Architectural
+  - Car Paint
+  - Incandescent
+  - Material
+  - Material Blender
+  - Malte-Shadow Catcher
+  - Skin
+  - Sprite
+  - SSS
+- Texture
+  - AO
+  - Camera Map
+  - Curvature
+  - Noise
+  - Ramp
+  - Texture
+  - WireFrame
+- Utilties
+  - Bump Blender
+  - Bump Map
+  - C4D Hair Attritube
+  - C4D Shader
+  - Color User Data
+  - Constant
+  - Displacement
+  - Displacement Blender
+  - Fresnel
+  - Hair Position
+  - Hair Random Color
+  - Integer User Data
+  - Normal Map
+  - Point Attribute
+  - Ray Switch
+  - round Corners
+  - Scalar User Data
+  - Shader Switch
+  - State
+  - TriPlanar
+  - Vector User Data
+  - Vertex Attribute
+- Environments
+  - Evvironment
+  - Physical Sky
+- Light
+  - Dome Light
+  - IES Light
+  - Physical Light
+  - Portal Light
+  - Sun Light
+- Volume
+  - Volume
+- Math
+  - Abs
+  - Add
+  - Arccosine
+  - Arctan2
+  - Arctangent
+  - Bias
+  - Change Range
+  - Cosine
+  - Cross Product
+  - Div
+  - Dot Product
+  - Exp
+  - Floor
+  - Frac
+  - Gain
+  - Invert
+  - Ln
+  - Log
+  - Max
+  - Min
+  - Mod
+  - Mul
+  - Neg
+  - Normallize
+  - Row
+  - Rcp
+  - Scatural
+  - Sign
+  - Sine
+  - Sqrt
+  - Sub
+  - Tangent
+  - Vector Abs
+  - Vector Add
+  - Vector Bias
+  - Vector Change Range
+  - Vector Div
+  - Vector Exp
+  - Vector Floor
+  - Vector Frac
+  - Vector Gain
+  - Vector Invert
+  - Vector Length
+  - Vector Ln
+  - Vector Log
+  - VectorMax
+  - Vector Min
+  - Vector Mod
+  - Vector Mul
+  - Vector Neg
+  - Vector Pow
+  - Vector Rcp
+  - Vector Satural
+  - Vector Sign
+  - Vector Sqrt
+  - Vector Sub
+  - Vector To Scalars
+- Color
+  - Color Abs
+  - Color Change Range
+  - Color Composite
+  - Color Correct
+  - Color Exp
+  - Color Gain
+  - Color Invert
+  - Color Layer
+  - Color Maker
+  - Color Mix
+  - Color Saturate
+  - Color Splitter
+  - Color Sub
+  - Color To HSY
+  - HSV To Color
+  - Vetor Bias
